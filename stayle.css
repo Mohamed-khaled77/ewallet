@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.t-color {
+  background-color: #34cbcd;
+}
+.t-colors {
+  background-color: rgb(232, 229, 229);
+  color: black;
+}
+
+.hovr:hover {
+  background-color: rgb(196, 190, 190);
+}
+
+.border-s {
+  border: #34cbcd;
+}
+.saize-img {
+  width: 3rem;
+}
+.saize-imgs {
+  width: 4rem;
+}
+
+.bg {
+  margin: 10px;
+  width: fit-content;
+  border: #34cbcd 1px solid;
+  border-radius: 50%;
+}
